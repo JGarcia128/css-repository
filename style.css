@@ -1,0 +1,33 @@
+.red {
+    color:red;
+  }
+  
+  .blue {
+    color:blue;
+  }
+  
+  .green {
+    color:green;
+  }
+  big and small font-size
+  
+  
+  .center {
+    text-align: center;
+  }
+  
+  .bold {
+    font-stretch: bold;
+  }
+  
+  .multiple {
+    font-stretch: bold;
+    color:orange;
+    
+  }
+  
+  .styledFont {
+    font-family:sans-serif;
+    color:green;
+  }
+  
